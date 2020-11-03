@@ -1,0 +1,26 @@
+{
+  "name": "easypeasy-professional_readme-generator",
+  "version": "1.0.0",
+  "description": "A simple readme generator based on user responses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TommyWillen/EasyPeasy-Professional_README-Generator.git"
+  },
+  "keywords": [
+    "readme",
+    "generator"
+  ],
+  "author": "Tommy Willen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TommyWillen/EasyPeasy-Professional_README-Generator/issues"
+  },
+  "homepage": "https://github.com/TommyWillen/EasyPeasy-Professional_README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
